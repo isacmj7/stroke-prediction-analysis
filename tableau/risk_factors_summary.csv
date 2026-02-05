@@ -1,0 +1,11 @@
+Risk_Factor,Status,Stroke_Rate
+Hypertension,Yes,13.25
+Hypertension,No,3.97
+Heart Disease,Yes,17.03
+Heart Disease,No,4.18
+Smoking,Formerly Smoked,7.92
+Smoking,Never Smoked,4.76
+BMI,Obese,5.1
+BMI,Normal,2.82
+Glucose,Diabetic,10.2
+Glucose,Normal,3.58
