@@ -45,3 +45,5 @@ See the documentation folder for detailed Tableau dashboard creation guide.
 ---
 
 *Ishak Islam | UMID28072552431 | Unified Mentor Internship*
+
+**GitHub Repository:** [https://github.com/isacmj7/stroke-prediction-analysis](https://github.com/isacmj7/stroke-prediction-analysis)
